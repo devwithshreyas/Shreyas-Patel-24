@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Shreyas-Patel-24
-- 👀 I’m interested in support for Homekit accessories
+- 👋 Hi, I’m @Shreyas
+- - 👀 I’m interested in support for Homekit accessories
 - 🌱 I’m currently learning  ...
 - 💞️ I’m looking to collaborate on homebridge plugin development
 - 📫 Feel free to  contact me on shreyasmpatel24@gmail.com
